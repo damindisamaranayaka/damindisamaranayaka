@@ -5,16 +5,16 @@
 
 Computer Engineering undergraduate (BSc Hons, University of Ruhuna, 2022–2026) with six months of professional experience as a Software Engineering Intern, building full-stack solutions with Laravel, Vue.js, React, WordPress, MySQL, PostgreSQL, and REST APIs. I enjoy building scalable software solutions, learning new technologies, and collaborating with teams to solve real-world problems — and I'm growing my focus toward AI/ML engineering, including LLM fine-tuning, NLP, and applied deep learning.
 
-- 🎓 BSc (Hons) Computer Engineering, University of Ruhuna — GPA 3.21
-- 💼 6 months as a Software Engineering Intern — full-stack development, REST APIs, code reviews, deployment
+- 🎓 BSc (Hons) Computer Engineering, University of Ruhuna 
+- 💼 6 months as a Software Engineering Intern - full-stack development, REST APIs, code reviews, deployment
 - 🔭 Currently building: Astraea, a full-stack e-procurement platform with AI-assisted features
 - 🌱 Growing focus: LLM fine-tuning, RAG, and AI agent systems
 - 💬 Ask me about: full-stack web development, applied ML/DL, secure system design
 
 ## Connect with Me
 
-- 💼 LinkedIn: [your-linkedin-url]
-- 📧 Email: [your-email]
+- 💼 LinkedIn: www.linkedin.com/in/damindi-samaranayaka-4485b021b
+- 📧 Email: damindisamaranayak2@gmail.com
 
 ## Featured Projects
 
@@ -42,7 +42,3 @@ Hybrid encryption platform for secure exam distribution — digital signatures, 
 
 ![Skills](https://skillicons.dev/icons?i=java,python,js,cpp,dart,html,css,tailwind,vue,react,laravel,spring,nodejs,express,flask,wordpress,mysql,postgres,mongodb,docker,jenkins,git,github,figma,jira,pytorch,tensorflow)
 
-## GitHub Stats
-
-![Damindi's GitHub stats](https://github-readme-stats.vercel.app/api?username=damindisamaranayaka&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damindisamaranayaka&layout=compact)
