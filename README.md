@@ -24,9 +24,9 @@ Full-stack platform digitizing the university's purchasing workflow - multi-leve
 
 ### 🤖 AI-Powered Job Description Analyzer & Resume Screener
 `PyTorch` `Hugging Face Transformers` `BERT` `Qwen2.5` `Streamlit`
-Fine-tuned BERT for resume-JD match scoring — Pearson correlation of 0.72 vs. 0.51 (TF-IDF) and 0.35 (Word2Vec) on 93,733 resume-JD pairs — plus LLM-generated structured feedback for recruiters.
+Fine-tuned BERT for resume-JD match scoring - Pearson correlation of 0.72 vs. 0.51 (TF-IDF) and 0.35 (Word2Vec) on 93,733 resume-JD pairs - plus LLM-generated structured feedback for recruiters.
 
-🏥 CarePlus — Healthcare Management Web & Mobile App
+🏥 CarePlus - Healthcare Management Web & Mobile App
 
 Node.js Express.js React.js MongoDB Dart A web application for doctors and clinical staff, paired with a mobile app for patients - covering user registration, appointment scheduling, digital prescriptions, billing, and medical record management.
 
